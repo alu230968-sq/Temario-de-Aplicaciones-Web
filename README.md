@@ -46,51 +46,7 @@ REST es un estilo arquitectónico para servicios web que utiliza HTTP para inter
 
 # <ins> 3. -Lenguajes y tecnologías fundamentales  
 __HTML, CSS, JavaScript, PHP, MySQL__   
-# HTML (estructura de una página web):
 
-HTML
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Ejemplo HTML</title>
-  </head>
-  <body>
-    <h1>Hola, mundo!</h1>
-    <p>Este es un ejemplo de HTML.</p>
-  </body>
-</html>
-CSS (estilos para una página web):
-
-# CSS
-body {
-  background-color: #f0f0f0;
-  color: #333;
-  font-family: Arial, sans-serif;
-}
-
-h1 {
-  color: #0066cc;
-}
-# JavaScript (interactividad en la web):
-
-JavaScript
-document.getElementById("boton").onclick = function() {
-  alert("¡Hiciste clic en el botón!");
-};
-HTML necesario para el ejemplo de JS:
-
-# HTML
-<button id="boton">Haz clic aquí</button>
-PHP (generación dinámica de contenido en el servidor):
-
-# PHP
-<?php
-echo "<h1>¡Hola desde PHP!</h1>";
-?>
-# MySQL (consulta básica en una base de datos):
-
-# SQL
-SELECT nombre, correo FROM usuarios WHERE activo = 1;
 # <ins> 4.-Control de versiones  
 
 # Git y GitHub  
