@@ -47,9 +47,8 @@ REST es un estilo arquitectónico para servicios web que utiliza HTTP para inter
 # <ins> 3. -Lenguajes y tecnologías fundamentales  
 __HTML, CSS, JavaScript, PHP, MySQL__   
 
-<img width="302" height="169" alt="image" src="https://github.com/user-attachments/assets/44dc5ae0-d8bc-4fba-823b-0f56e618b294" />  
+# <ins> 4.-Control de versiones  
 
-_4.-Control de versiones_  
 Git y GitHub  
 Flujo de trabajo con ramas (branching, merge, pull requests)  
 
