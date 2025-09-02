@@ -1,9 +1,11 @@
 # Temario-de-Aplicaciones-Web
 Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el archivo README en donde investigarás con imágenes los temas propuestos.
 
+
 # <ins> Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 _1.-Introducción al desarrollo web_  
 Historia y evolución del desarrollo web  
+La historia del desarrollo web inicia en 1989, cuando Tim Berners-Lee propuso el concepto de la World Wide Web en el CERN. El primer sitio web fue publicado en 1991. Desde entonces, el desarrollo web ha experimentado una evolución continua
 <img width="226" height="168" alt="image" src="https://github.com/user-attachments/assets/39eb71ad-f97a-47d8-a649-bbd6e3f98a47" />  
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
 _2.Arquitectura de aplicaciones web_  
@@ -15,6 +17,8 @@ HTML, CSS, JavaScript, PHP, MySQL
 _4.-Control de versiones_  
 Git y GitHub  
 Flujo de trabajo con ramas (branching, merge, pull requests)  
+
+
 # <ins> Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web
 1.-Diseño e implementación del frontend
 Maquetación/Wireframe/Mockup
@@ -30,6 +34,7 @@ CRUD desde el backend
 4.-Seguridad básica en aplicaciones web
 Validación de formularios
 Autenticación y autorización 
+
 
 # <ins> Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional
 1. -Integración de frontend y backend
