@@ -5,9 +5,10 @@ Accede a GitHub y crea un repositorio llamado Temario de Aplicaciones Web con el
 # <ins> Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 _1.-Introducción al desarrollo web_  
 Historia y evolución del desarrollo web  
-La historia del desarrollo web inicia en 1989, cuando Tim Berners-Lee propuso el concepto de la World Wide Web en el CERN. El primer sitio web fue publicado en 1991. Desde entonces, el desarrollo web ha experimentado una evolución continua
+_La historia del desarrollo web inicia en 1989, cuando Tim Berners-Lee propuso el concepto de la World Wide Web en el CERN. El primer sitio web fue publicado en 1991. Desde entonces, el desarrollo web ha experimentado una evolución continua_  
 <img width="226" height="168" alt="image" src="https://github.com/user-attachments/assets/39eb71ad-f97a-47d8-a649-bbd6e3f98a47" />  
 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
+
 _2.Arquitectura de aplicaciones web_  
 Cliente-Servidor  
 Arquitectura de tres capas (presentación, lógica, datos)  
